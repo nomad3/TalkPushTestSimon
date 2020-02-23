@@ -1,0 +1,10 @@
+input:
+  url: https://docs.google.com/spreadsheets/d/
+  key: 1xkofJa5iI3AQE4yWEoHqMTQ1QQ-VDsfUDDwV96QQDVM
+  route: /export?format=csv
+  
+output:
+  url: https://my.talkpush.com/api/talkpush_services/campaigns/
+  key: 3929
+  route: /campaign_invitations
+  api_key: 48530ba23eef6b45ffbc95d7c20a60b9
